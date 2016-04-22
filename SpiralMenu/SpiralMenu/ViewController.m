@@ -123,7 +123,7 @@ BOOL reverse;
     [menuControl addCompunent:car8];//aassa
     [menuControl addCompunent:car9];
     
-    [car updateIndexOfPosition];
+    [car updateIndexOfPosition];//new commit
     [car1 updateIndexOfPosition];
     [car2 updateIndexOfPosition];
     [car3 updateIndexOfPosition];
