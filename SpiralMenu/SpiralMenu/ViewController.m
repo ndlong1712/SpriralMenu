@@ -155,7 +155,7 @@ BOOL reverse;
     self.swirlGestureRecognizer = [[CAYSwirlGestureRecognizer alloc] initWithTarget:self action:@selector(rotationAction:) menuControl:menuControl viewDrag:self.viewDrag pointCenter:center];
     [self.swirlGestureRecognizer setDelegate:self];
     [self.controlsView addGestureRecognizer:self.swirlGestureRecognizer];
-    //    [self.viewDrag addGestureRecognizer:self.swirlGestureRecognizer];
+    //    [self.viewDrag addGestureRecognizer:self.swirlGestureRecognizer];wefqwfqwf
     
 }
 
