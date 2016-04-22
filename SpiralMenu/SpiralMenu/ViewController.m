@@ -120,7 +120,7 @@ BOOL reverse;
     [menuControl addCompunent:car5];
     [menuControl addCompunent:car6];
     [menuControl addCompunent:car7];
-    [menuControl addCompunent:car8];
+    [menuControl addCompunent:car8];//aassa
     [menuControl addCompunent:car9];
     
     [car updateIndexOfPosition];
