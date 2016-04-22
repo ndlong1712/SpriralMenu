@@ -130,7 +130,7 @@ BOOL reverse;
     [car4 updateIndexOfPosition];
     [car5 updateIndexOfPosition];
     [car6 updateIndexOfPosition];
-    [car7 updateIndexOfPosition];
+    [car7 updateIndexOfPosition];//fff
     [car8 updateIndexOfPosition];
     [car9 updateIndexOfPosition];
     
