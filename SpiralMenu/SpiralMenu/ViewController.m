@@ -14,7 +14,7 @@
 {
     NSTimer *timer;
     BOOL check;
-    BOOL abc;
+    BOOL abc123;
 }
 @property (strong, nonatomic) CAYSwirlGestureRecognizer *swirlGestureRecognizer;
 @property (strong, nonatomic)NSArray *arrSize;
