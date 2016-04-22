@@ -13,6 +13,7 @@
 @interface ViewController ()
 {
     NSTimer *timer;
+    BOOL check;
 }
 @property (strong, nonatomic) CAYSwirlGestureRecognizer *swirlGestureRecognizer;
 @property (strong, nonatomic)NSArray *arrSize;
